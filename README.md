@@ -23,3 +23,10 @@ npm run test
 ```
 npm run lint
 ```
+### api
+
+npm run api
+
+### setup mongo in system
+
+https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-18-04
